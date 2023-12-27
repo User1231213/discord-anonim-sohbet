@@ -25,9 +25,4 @@ yarn start
 ![image](https://user-images.githubusercontent.com/84875764/178517394-53409711-db9d-495f-99f4-03f9eb363719.png)
 
 
-
-## `📞` İletişim
-- Discord hesabım ile benimle iletişime geçebilirsiniz: [Loiren#0009](https://discord.com/users/915326086932484126)
-
-
 ***Altyapıyı arayanlar çok vardı, ben de yapmak istedim. İyi kullanımlar dilerim. 💖***
